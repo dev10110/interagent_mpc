@@ -4,6 +4,11 @@ Generates trajectories for multiple agents to avoid static obstacles and each ot
 
 The mpc problem is a mixed integer QP, solved using default methods in CVXPY. 
 
+## usage  
+clone the repo, run
+`python3 simulator.py`
+
+
 useful references:
 ```
 @INPROCEEDINGS{1024509,
